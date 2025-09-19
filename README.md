@@ -1,1 +1,1 @@
-# food-project
+# Food management project
